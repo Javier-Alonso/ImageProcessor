@@ -12,5 +12,5 @@ Proyecto para la asignatura _Visión Por Computador_ de la Universidad de La Lag
 
 ## Licencia 📄
 
-Mira el archivo [LICENSE.md](LICENSE.md) para obtener detalles
+Mira el archivo [LICENSE](LICENSE) para obtener detalles
 
