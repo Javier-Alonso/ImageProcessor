@@ -7,7 +7,7 @@ Proyecto para la asignatura _Visión Por Computador_ de la Universidad de La Lag
 
 ## Autores ✒️
 
-* **Javier Alonso Delgado** - [jalongado@gmail.com](https://github.com/villanuevand)
+* **Javier Alonso Delgado** - [jalongado@gmail.com](jalongado@gmail.com)
 * **Carlos Díaz Calzadilla** 
 
 ## Licencia 📄
